@@ -1,0 +1,43 @@
+/*          NAVBAR         */
+
+.navbar-brand {
+    color: black;
+    font-size: 1.7rem;
+}
+
+
+.nav-link {
+    color: black;
+    font-size: 1.5rem;
+}
+
+
+/*     NAVBAR ENDS     */
+
+h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+form {
+    background-color: #E6DDC4;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+
+    border-color: white;
+    padding: 10px;
+}
+
+#form {
+    background-color: #D8B6A4;
+    padding-bottom: 20px;
+}
+
+#footer {
+    background-color: #E6DDC4;
+}

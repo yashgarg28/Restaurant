@@ -1,0 +1,158 @@
+#img-title {
+  background-color: #D8B6A4;
+}
+
+#food-images {
+  background-color: #E6DDC4;
+}
+
+#reviews {
+  background-color: #D8B6A4;
+
+}
+
+#footer {
+  background-color: #E6DDC4;
+}
+
+body {
+  margin: 0;
+}
+
+/*          NAVBAR         */
+
+.navbar-brand {
+  color: black;
+  font-size: 1.7rem;
+}
+
+
+.nav-link {
+  color: black;
+  font-size: 1.5rem;
+}
+
+
+/*     NAVBAR ENDS     */
+/*     FIRST CONTAINER */
+
+.img_ {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.burger {
+  margin-top: 2rem;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 6rem;
+  font-family: 'Estonia', cursive;
+}
+
+/*   FIRST CONTAINER ENDS */
+/* Food Images */
+
+.food-image {
+  margin: 10px;
+}
+
+/*   Review CONTAINER */
+
+h3 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/*   Review CONTAINER ENDS */
+
+.bottom-container {
+  height: 60px;
+  background-color: #212529;
+}
+
+/*           MEDIA FOR SMALL screen        */
+
+@media (max-width: 700px) {
+  #food-images {
+    text-align: center;
+  }
+
+  .food-image {
+    padding-bottom: 10px;
+  }
+
+  .burger {
+    width: 20rem;
+  }
+
+  .img_ {
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+
+  .title-text {
+    text-align: center;
+  }
+
+  .img_ {
+    margin-bottom: 0%;
+  }
+
+  h2 {
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .navbar-brand {
+    font-size: 1rem;
+  }
+
+  .nav-link {
+
+    font-size: 1rem;
+  }
+}
+
+/* Media for screen smaller than 1000px */
+
+@media (max-width: 1000px) {
+  h2 {
+    font-size: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img_ {
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+
+  .food-image {
+    margin-bottom: 10px;
+  }
+}
+
+
+
+
+/* Media for larger screens */
+
+@media (min-width: 700px) {
+  h2 {
+    padding-left: 6rem;
+  }
+
+  .food-image1 {
+    margin-left: 20px;
+  }
+
+  .food-image {
+    margin-bottom: 20px;
+  }
+}

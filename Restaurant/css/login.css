@@ -1,0 +1,32 @@
+body {
+    background-color: #D8B6A4;
+}
+
+#footer {
+    background-color: #E6DDC4;
+}
+
+#form {
+    margin-bottom: 40px;
+}
+
+.login {
+    margin-bottom: 10px;
+}
+
+/*          NAVBAR         */
+
+.navbar-brand {
+    color: black;
+    font-size: 1.7rem;
+  }
+  
+  
+  .nav-link {
+    color: black;
+    font-size: 1.5rem;
+  }
+  
+  
+  /*     NAVBAR ENDS     */
+  

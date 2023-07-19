@@ -1,0 +1,91 @@
+#fenix {
+    background-color: #D8B6A4;
+}
+
+#ziya {
+    background-color: #E6DDC4;
+}
+
+#the_eau_bar {
+    background-color: #D8B6A4;
+}
+
+/* NAVBAR */
+
+.navbar-brand {
+    color: black;
+    font-size: 1.7rem;
+}
+
+
+.nav-link {
+    color: black;
+    font-size: 1.5rem;
+}
+
+/* NAVBAR ENDS */
+
+.title {
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Estonia', cursive;
+
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+/* FENIX */
+
+.fenix {
+    height: 700px;
+}
+
+.text_fenix {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* ZIYA */
+
+.ziya {
+    height: 700px;
+}
+
+.text_ziya {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* THE EAU BAR */
+
+.eau {
+    height: 700px;
+}
+
+.text_eau {
+    margin-right: 100px;
+    margin-left: 100px;
+}

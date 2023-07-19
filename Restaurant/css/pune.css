@@ -1,0 +1,85 @@
+#paasha {
+    background-color: #D8B6A4;
+}
+
+#spice_kitchen {
+    background-color: #E6DDC4;
+}
+
+#sorriso {
+    background-color: #D8B6A4;
+}
+
+/* NAVBAR */
+
+.navbar-brand {
+    color: black;
+    font-size: 1.7rem;
+}
+
+.nav-link {
+    color: black;
+    font-size: 1.5rem;
+}
+
+/* NAVBAR ENDS */
+
+.title {
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Estonia', cursive;
+
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+/* PAASHA */
+
+.text_paasha {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.paasha {
+    height: 750px;
+}
+
+/* SPICE KITCHEN */
+
+.text_spice_kitchen {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.spice_kitchen {
+    height: 750px;
+}
+
+/* SORRISO */
+
+.sorriso {
+    height: 750px;
+}
